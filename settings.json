@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "IlijaKoco-jSbD.aternos.me",
+    "port": 25209,
+    "version": "1.26.3",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "jovane pusi patlidzan",
+        "Jedi iz guzice",
+        "jedi jedi jedi jedi"
       ]
     },
     "chat-log": true,
